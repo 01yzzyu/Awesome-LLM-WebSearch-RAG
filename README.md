@@ -18,21 +18,10 @@
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
-| 2024-10-12 | Situation3D | UIUC | [Situational Awareness Matters in 3D Vision Language Reasoning](https://arxiv.org/abs/2406.07544) | CVPR '24 | [project](https://yunzeman.github.io/situation3d/) |
+| 2024-05-23 | SearchLVLMs | Shanghai AILab | [SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge](https://openreview.net/forum?id=leeosk2RAM&referrer=%5Bthe%20profile%20of%20Chuanhao%20Li%5D(%2Fprofile%3Fid%3D~Chuanhao_Li2)) | NeurIPS 2024 poster | [project](https://nevermorelch.github.io/SearchLVLMs.github.io/) |
 | 2024-09-28 | LLaVA-3D | HKU | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](https://arxiv.org/pdf/2409.18125) | Arxiv | [project](https://zcmax.github.io/projects/LLaVA-3D/) |
-| 2024-09-08 | MSR3D | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
-| 2024-08-28 | GreenPLM | HUST | [ More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding]( https://arxiv.org/pdf/2408.15966) | Arxiv| [github](https://github.com/TangYuan96/GreenPLM) |
-| 2024-06-17 | LLaNA | UniBO | [LLaNA: Large Language and NeRF Assistant](https://arxiv.org/pdf/2406.11840)| NeurIPS '24 | [project](https://andreamaduzzi.github.io/llana/) |
-| 2024-06-07  | SpatialPIN           | Oxford                 | [SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors](https://arxiv.org/abs/2403.13438)                         | NeurIPS '24       | [project](https://dannymcy.github.io/zeroshot_task_hallucination/) |
+| 2024-09-28 | LLaVA-3D | HKU | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](https://arxiv.org/pdf/2409.18125) | Arxiv | [project](https://zcmax.github.io/projects/LLaVA-3D/) |
 
-
-## Paper
-
-**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**
-*Ibrahim Ethem Hamamci, Sezgin Er, et al.*
-ECCV | 11 Mar 2024
-[paper](https://arxiv.org/pdf/2305.16037v4)
-[![GitHub stars](https://img.shields.io/github/stars/ibrahimethemhamamci/GenerateCT.svg?logo=github&label=Stars)](https://github.com/ibrahimethemhamamci/GenerateCT)
 
 
 
