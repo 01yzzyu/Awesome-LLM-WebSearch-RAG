@@ -35,6 +35,12 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=01yzzyu/Awesome-LLM-Websearch-RAG&type=Timeline)](https://star-history.com/#01yzzyu/Awesome-LLM-Websearch-RAG&Timeline)
+<a href="https://star-history.com/#01yzzyu/Awesome-LLM-Websearch-RAG&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=01yzzyu/Awesome-LLM-Websearch-RAG&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=01yzzyu/Awesome-LLM-Websearch-RAG&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=01yzzyu/Awesome-LLM-Websearch-RAG&type=Timeline" />
+ </picture>
+</a>
 
 
