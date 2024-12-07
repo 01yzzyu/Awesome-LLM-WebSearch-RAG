@@ -33,9 +33,8 @@
 | 2023-03-08 | Visual chatgpt | Microsoft | [Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671) | Arxiv 2023 |  [Code](https://github.com/chenfei-wu/TaskMatrix) | [project](https://github.com/chenfei-wu/TaskMatrix) | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
 
 
+## Star History
 
-
-
-
+[![Star History Chart](https://api.star-history.com/svg?repos=01yzzyu/Awesome-LLM-Websearch-RAG&type=Timeline)](https://star-history.com/#01yzzyu/Awesome-LLM-Websearch-RAG&Timeline)
 
 
