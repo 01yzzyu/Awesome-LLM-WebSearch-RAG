@@ -9,9 +9,15 @@
 ## Table of Content
 
 - [Awesome-Websearch-RAG](#awesome-llm-3D)
+  - [RAG-Survey](#RAG-Survey)
   - [Websearch-RAG](#Websearch-RAG)
 
+## RAG-Survey
 
+
+|  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: 
+| 2024-06-17 | Survey | HK PolyU | [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211) | KDD 2024 |  [Code](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) | [project](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) | 
 
 
 ## Websearch-RAG
