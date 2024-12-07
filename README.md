@@ -1,14 +1,13 @@
-# Awesome-Websearch-RAG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-LLM-Websearch-RAG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-- ❤ We provide a comprehensive list of Websearch-RAG, focus on developing and optimizing web-scale Retrieval-Augmented Generation (RAG) systems tailored for understanding up-to-date vision knowledge.
-
+- ❤ We provide a comprehensive list of LLM-Websearch-RAG, focus on developing and optimizing web-scale Retrieval-Augmented Generation (RAG) systems tailored for understanding up-to-date vision knowledge.
 
 
 ## Table of Content
 
-- [Awesome-Websearch-RAG](#awesome-llm-3D)
+- [Awesome-Websearch-RAG](#Awesome-LLM-Websearch-RAG)
   - [RAG-Survey](#RAG-Survey)
   - [Websearch-RAG](#Websearch-RAG)
 
