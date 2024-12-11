@@ -35,16 +35,8 @@
 | 2023-03-19 | ViperGPT | ColumbiaU | [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) | CVPR 2023 |  [Code](https://github.com/cvlab-columbia/viper) | [project](https://viper.cs.columbia.edu/) | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
 | 2023-03-08 | Visual chatgpt | Microsoft | [Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671) | Arxiv 2023 |  [Code](https://github.com/chenfei-wu/TaskMatrix) | [project](https://github.com/chenfei-wu/TaskMatrix) | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
 
+## Benchmark
 
-
-## Star History
-
-<a href="https://star-history.com/#01yzzyu/Awesome-LLM-Websearch-RAG&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=01yzzyu/Awesome-LLM-Websearch-RAG&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=01yzzyu/Awesome-LLM-Websearch-RAG&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=01yzzyu/Awesome-LLM-Websearch-RAG&type=Timeline" />
- </picture>
-</a>
+| 2024-11-29 | TQA-Bench | HKUST | [TQA-Bench: Evaluating LLMs for Multi-Table Question Answering with Scalable Context and Symbolic Extension](https://arxiv.org/abs/2411.19504) | Arxiv 2024 |  [Code](https://github.com/Relaxed-System-Lab/TQA-Bench) | [project](https://github.com/Relaxed-System-Lab/TQA-Bench) | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
 
 
