@@ -42,9 +42,10 @@
 
 ## Benchmark
 
+|  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: | :---------:
 | 2024-11-29 | TQA-Bench | HKUST | [TQA-Bench: Evaluating LLMs for Multi-Table Question Answering with Scalable Context and Symbolic Extension](https://arxiv.org/abs/2411.19504) | Arxiv 2024 |  [Code](https://github.com/Relaxed-System-Lab/TQA-Bench) | [project](https://github.com/Relaxed-System-Lab/TQA-Bench) | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
 
-Encyclopedic VQA:
-Visual questions about detailed properties of fine-grained categories
+Encyclopedic VQA: Visual questions about detailed properties of fine-grained categories
 
 
