@@ -27,12 +27,15 @@
 | 2024-05-26 | GRAG | Emory | [GRAG: Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2405.16506) | Arxiv 2024 |   |  |   | | 
 
 
-## Websearch-RAG
 
+
+
+## Websearch-RAG
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: | :---------:
-| 2024-11-29 | 01.AI | HKUST | [Zero-Indexing Internet Search Augmented Generation for Large Language Models](https://arxiv.org/abs/2411.19478) | Arxiv 2024 |  [Code](https://www.01.ai/) | [Project](https://www.01.ai/) | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
+| 2024-11-30 | Video-RAG | Xiamen U | [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093) | Arxiv 2024 |  [Code](https://github.com/Leon1207/Video-RAG-master) | ｜ ｜
+| 2024-11-29 | 01.AI | HKUST | [Zero-Indexing Internet Search Augmented Generation for Large Language Models](https://arxiv.org/abs/2411.19478) | Arxiv 2024 |  [Code](https://www.01.ai/) | [Project](https://www.01.ai/) | [View](https://github.com/01yzzyu/Awesome-LLM-Websearch-RAG/blob/main/assets/01.AI/01/Zero-Indexing%20Internet%20Search%20Augmented%20Generation%2015ccd9a0c43a806fb52bc706798545a8.md) |
 | 2024-11-29 | Auto-RAG | ICT/CAS | [Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models](https://arxiv.org/abs/2411.19443) | Arxiv 2024 |  [Code](https://github.com/ictnlp/Repository-for-the-forthcoming-work) | | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
 | 2024-11-11 | Invar-RAG | CityU HK | [Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation](https://arxiv.org/abs/2411.07021) | Arxiv 2024 |    |   | [View](https://github.com/01yzzyu/Awesome-LLM-Websearch-RAG/blob/main/assets/invar/Invar-RAG%20Invariant%20LLM-aligned%20Retrieval%20for%20Bett%2015dcd9a0c43a8038ab69fec551800b82.md) |
 | 2024-10-28 | VSA | MMLab | [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](https://arxiv.org/abs/2410.21220) | Arxiv 2024 |  [Code](https://github.com/cnzzx/VSA) | [Project](https://cnzzx.github.io/VSA/)| [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
