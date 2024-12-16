@@ -54,7 +54,7 @@
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: | :---------:
 | 2024-11-29 | TQA-Bench | HKUST | [TQA-Bench: Evaluating LLMs for Multi-Table Question Answering with Scalable Context and Symbolic Extension](https://arxiv.org/abs/2411.19504) | Arxiv 2024 |  [Code](https://github.com/Relaxed-System-Lab/TQA-Bench) | [Project](https://github.com/Relaxed-System-Lab/TQA-Bench) | |
-| 2024-10-02 | MMQA|  | [MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions](https://openreview.net/forum?id=GGlpykXDCa) | ICLR Oral | | | |
+| 2024-10-02 | MMQA|  | [MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions](https://openreview.net/forum?id=GGlpykXDCa) | ICLR 2025 Oral | | | |
 | 2024-10-07 | TableRAG | NTU(Taiwan) | [TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/abs/2410.04739) | NIPS 2024 | [Code](https://github.com/google-research/google-research/tree/master/encyclopedic_vqa) |  |  |
 | 2023-06-15 | Encyclopedic VQA | Google | [Encyclopedic VQA: Visual questions about detailed properties of fine-grained categories](https://arxiv.org/abs/2411.19504) | ICCV 2023 |  [Code](https://github.com/google-research/google-research/tree/master/encyclopedic_vqa) |  |  |
 
