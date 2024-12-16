@@ -1,5 +1,7 @@
 # Zero-Indexing Internet Search Augmented Generation for Large Language Models
 
+在本文中，**Zero-Indexing** 是一种全新的范式，指通过实时互联网搜索 API（如 Google 或 Bing）直接获取外部数据，而无需预先构建或维护任何固定的索引数据集。这种方法不同于传统的 检索增强生成（Retrieval-Augmented Generation, RAG）系统，后者依赖于预处理、索引和存储静态语料库。Zero-Indexing 彻底消除了对内部索引和向量数据库的依赖，取而代之的是对互联网数据的 动态检索和处理。
+
 - **Motivation:**
     
     这篇文章的核心问题是解决现有的基于检索增强生成（RAG，Retrieval-Augmented Generation）方法的局限性，特别是在生成需要**实时更新**的信息内容时。
