@@ -8,8 +8,9 @@
 ## Table of Content
 
 - [Awesome-Websearch-RAG](#Awesome-LLM-Websearch-RAG)
-  - [RAG-Survey](#RAG-Survey)
-  - [Websearch-RAG](#Websearch-RAG)
+  - [RAG Survey](#RAG-Survey)
+  - [Enhanced Retrieval](#Enhanced-Retrieval)
+  - [Websearch RAG](#Websearch-RAG)
 
 ## RAG-Survey
 
@@ -18,10 +19,10 @@
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: 
 | 2024-06-17 | Survey | HK PolyU | [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211) | KDD 2024 |  [Code](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) | [Project](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) | 
 
-## Enhanced Retrieval
+## Enhanced-Retrieval
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: | :---------: 
-| 2024-10-28 | SubgraphRAG | Georgia Tech | [Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](https://arxiv.org/abs/2410.20724) |  |  [Code](https://github.com/Graph-COM/SubgraphRAG) |  |  | 
+| 2024-10-28 | SubgraphRAG | Georgia Tech | [Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](https://arxiv.org/abs/2410.20724) | Arxiv 2024  |  [Code](https://github.com/Graph-COM/SubgraphRAG) |  |  | 
 | 2024-06-03 | RGNN-Ret | HKUST | [Graph Neural Network Enhanced Retrieval for Question Answering of LLMs](https://arxiv.org/abs/2406.06572) | Arxiv 2024  |  |   | | 
 | 2024-05-26 | GRAG | Emory | [GRAG: Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2405.16506) | Arxiv 2024 |   |  |   | | 
 
