@@ -21,8 +21,10 @@
 ## Enhanced Retrieval
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: | :---------: 
+| 2024-10-28 | SubgraphRAG | Georgia Tech | [Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](https://arxiv.org/abs/2410.20724) |  |  [Code](https://github.com/Graph-COM/SubgraphRAG) |  |  | 
 | 2024-06-03 | RGNN-Ret | HKUST | [Graph Neural Network Enhanced Retrieval for Question Answering of LLMs](https://arxiv.org/abs/2406.06572) | Arxiv 2024  |  |   | | 
 | 2024-05-26 | GRAG | Emory | [GRAG: Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2405.16506) | Arxiv 2024 |   |  |   | | 
+
 
 ## Websearch-RAG
 
