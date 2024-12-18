@@ -10,6 +10,7 @@
 - [Awesome-Websearch-RAG](#Awesome-LLM-Websearch-RAG)
   - [RAG Survey](#RAG-Survey)
   - [Enhanced Retrieval](#Enhanced-Retrieval)
+  - [Video RAG](#Video-RAG)
   - [Websearch RAG](#Websearch-RAG)
 
 ## RAG-Survey
