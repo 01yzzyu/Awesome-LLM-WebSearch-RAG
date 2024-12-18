@@ -29,8 +29,6 @@
 
 
 
-
-
 ## Websearch-RAG
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
@@ -47,6 +45,7 @@
 | 2024-05-23 | SearchLVLMs | SHAI Lab | [SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge](https://openreview.net/forum?id=leeosk2RAM&referrer=%5Bthe%20profile%20of%20Chuanhao%20Li%5D(%2Fprofile%3Fid%3D~Chuanhao_Li2)) | NeurIPS 2024 poster |  [Code](https://github.com/NeverMoreLCH/SearchLVLMs) | [Project](https://nevermorelch.github.io/SearchLVLMs.github.io/) | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
 | 2024-03-31 | RQ-RAG | HKUST | [RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation](https://arxiv.org/abs/2404.00610) | COLM 2024 |  [Code](https://github.com/chanchimin/RQ-RAG) | | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
 | 2024-03-15 | DRAGIN | Tsinghua | [DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models](https://arxiv.org/abs/2403.10081) | ACL 2024 |  [Code](https://github.com/oneal2000/DRAGIN/tree/main) |  | [View](https://github.com/01yzzyu/Awesome-LLM-Websearch-RAG/blob/main/assets/dragin/DRAGIN%20Dynamic%20Retrieval%20Augmented%20Generation%20base%2015dcd9a0c43a80a3b92fddfd32d1a036.md) |
+| 2023-12-18 | ViTA | NEC Lab | [ViTA: An Efficient Video-to-Text Algorithm using VLM for RAG-based Video Analysis System](https://openaccess.thecvf.com/content/CVPR2024W/MAR/papers/Arefeen_ViTA_An_Efficient_Video-to-Text_Algorithm__using_VLM_for_RAG-based_CVPRW_2024_paper.pdf) | CVPR 2024 |   |   |  |
 | 2023-12-18 | CLOVA | PKU | [CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update](https://arxiv.org/abs/2312.10908) | CVPR 2024 |  [Code](https://github.com/clova-tool/CLOVA-tool) | [Project](https://clova-tool.github.io/) | [View](https://nevermorelch.github.io/SearchLVLMs.github.io/) |
 | 2023-10-17 | Self-RAG | UW | [Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflections](https://arxiv.org/abs/2312.10908) | ICLR 2024 oral |  [Code](https://github.com/AkariAsai/self-rag) | [Project](https://selfrag.github.io/) | [View](https://nevermorelch.github.io/SearchLVLMs.github.io/) |
 | 2023-04-19 | Chameleon | UCLA | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://openreview.net/forum?id=leeosk2RAM&referrer=%5Bthe%20profile%20of%20Chuanhao%20Li%5D(%2Fprofile%3Fid%3D~Chuanhao_Li2)) | NeurIPS 2023 poster |  [Code](https://github.com/lupantech/chameleon-llm) | [Project](https://chameleon-llm.github.io/) | [View](https://github.com/01yzzyu/Websearch-RAG/blob/main/assets/SearchLVLMs/SearchLVLMs.md) |
