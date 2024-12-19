@@ -28,6 +28,7 @@
 | 2024-05-26 | RAGraph | PKU | [RAGraph: A General Retrieval-Augmented Graph Learning Framework](https://arxiv.org/abs/2410.23855) | NIPS 2024 | [Code](https://github.com/Artessay/RAGraph/)  |  |   | | 
 | 2024-06-03 | RGNN-Ret | HKUST | [Graph Neural Network Enhanced Retrieval for Question Answering of LLMs](https://arxiv.org/abs/2406.06572) | Arxiv 2024  |  |   | | 
 | 2024-05-26 | GRAG | Emory | [GRAG: Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2405.16506) | Arxiv 2024 |   |  |   | | 
+| 2024-01-26 | CRAG | USTC | [Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884) | Arxiv 2024 |  [Code](https://github.com/HuskyInSalt/CRAG)  |  |   | | 
 
 ## Video-RAG
 
