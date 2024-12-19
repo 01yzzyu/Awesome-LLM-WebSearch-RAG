@@ -33,8 +33,11 @@
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: | :---------:
+| 2024-12-02 | EchoSight | SJTU | [EchoSight: Advancing Visual-Language Models with Wiki Knowled](https://arxiv.org/abs/2411.13093) | EMNLP 2024 |  [Code](https://github.com/Go2Heart/EchoSight) | [Project](https://go2heart.github.io/echosight/)  |   | | 
 | 2024-11-30 | Video-RAG | Xiamen U | [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093) | Arxiv 2024 |  [Code](https://github.com/Leon1207/Video-RAG-master) |  |   | | 
+| 2024-11-22 |  | CASIA | [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/abs/2411.15041) | Arxiv 2024 | |  |   | 
 | 2024-10-08 | VisRAG | Tsinghua | [VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](https://arxiv.org/abs/2410.10594) | Arxiv 2024 |  [Code](https://github.com/openbmb/visrag) |  |   | | 
+| 2024-07-22 |  | Microsoft | [An Empirical Comparison of Video Frame Sampling Methods for Multi-Modal RAG Retrieval](https://arxiv.org/abs/2408.03340) | Arxiv 2024 | |  |   | 
 | 2024-06-15 |  | Stanford | [Leveraging Lightweight AI for Video Querying in a RAG Framework](https://www.semanticscholar.org/paper/Leveraging-Lightweight-AI-for-Video-Querying-in-a-Chun-Hsu/8724c1ebf16e4342edb9f5fd2fb94e7f13818978) |  | |  |   | 
 | 2024-06-15 |  | Moments Lab | [Towards Retrieval Augmented Generation over Large Video Libraries](https://arxiv.org/abs/2411.13093) | HSI 2024 | |  |   | 
 | 2024-05-27 |  | Snap Inc. | [Video Enriched Retrieval Augmented Generation Using Aligned Video Captions](https://arxiv.org/abs/2405.17706) | SIGIR 2024 Workshop| |  |   | 
