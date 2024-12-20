@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-- ❤ We provide a comprehensive list of LLM Websearch RAG, focus on developing and optimizing web-scale Retrieval-Augmented Generation systems tailored for understanding up-to-date vision knowledge.
+- ❤ We provide a comprehensive list of LLM Websearch RAG, focusing on developing and optimizing web-scale Retrieval-Augmented Generation systems tailored for understanding up-to-date vision knowledge.
 
 
 ## Table of Content
