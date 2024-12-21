@@ -70,10 +70,16 @@
 | 2023-10-17 | Self-RAG | UW | [Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflections](https://arxiv.org/abs/2312.10908) | ICLR 2024 oral |  [Code](https://github.com/AkariAsai/self-rag) | [Project](https://selfrag.github.io/) |  |
 | 2023-04-19 | Chameleon | UCLA | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://openreview.net/forum?id=leeosk2RAM&referrer=%5Bthe%20profile%20of%20Chuanhao%20Li%5D(%2Fprofile%3Fid%3D~Chuanhao_Li2)) | NeurIPS 2023 poster |  [Code](https://github.com/lupantech/chameleon-llm) | [Project](https://chameleon-llm.github.io/) |  |
 | 2023-03-20 | MM-REACT | Microsoft | [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) | CVPR 2023 |  [Code](https://github.com/microsoft/MM-REACT) | [Project](https://multimodal-react.github.io/) |   |
-| 2023-03-19 | ViperGPT | ColumbiaU | [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) | CVPR 2023 |  [Code](https://github.com/cvlab-columbia/viper) | [Project](https://viper.cs.columbia.edu/) |  |
-| 2023-03-08 | Visual chatgpt | Microsoft | [Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671) | Arxiv 2023 |  [Code](https://github.com/chenfei-wu/TaskMatrix) | [Project](https://github.com/chenfei-wu/TaskMatrix) |  |
+| 2023-03-19 | ViperGPT | Columbia | [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) | CVPR 2023 |  [Code](https://github.com/cvlab-columbia/viper) | [Project](https://viper.cs.columbia.edu/) |  |
+| 2023-03-08 | Visual ChatGPT | Microsoft | [Visual ChatGPT: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671) | Arxiv 2023 |  [Code](https://github.com/chenfei-wu/TaskMatrix) | [Project](https://github.com/chenfei-wu/TaskMatrix) |  |
 
-## Benchmark
+## Video Caption Benchmark
+|  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: | :---------:
+| 2016-05-02 | | Stanford | [Dense-Captioning Events in Videos](https://arxiv.org/abs/1705.00754) | Arxiv 2017 |  | [Project](https://cs.stanford.edu/people/ranjaykrishna/densevid/) | |
+| 2016-11-29 | MSR-VTT | Microsoft | [MSR-VTT: A Large Video Description Dataset for Bridging Video and Language - Microsoft Research](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) | CVPR 2016 |  | [Project](https://cove.thecvf.com/datasets/839) | |
+
+
 
 ## Benchmark
 
