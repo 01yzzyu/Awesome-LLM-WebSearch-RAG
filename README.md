@@ -32,9 +32,12 @@
 | 2024-10-28 | SubgraphRAG | Georgia Tech | [Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](https://arxiv.org/abs/2410.20724) | Arxiv 2024  |  [Code](https://github.com/Graph-COM/SubgraphRAG) |  |  | 
 | 2024-10-9 | Text Proxy | HFUT | [Text Proxy: Decomposing Retrieval from a 1-to-N Relationship into N 1-to-1 Relationships for Text-Video Retrieval](https://arxiv.org/abs/2410.06618) | AAAI 2025 | [Code](https://github.com/musicman217/Text-Proxy/tree/main)| | |
 | 2024-10-08 | VisRAG | Tsinghua | [VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](https://arxiv.org/abs/2410.10594) | Arxiv 2024 |  [Code](https://github.com/openbmb/visrag) |  |   | | 
+| 2024-07-11 | Speculative RAG | UCSD | [Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](https://arxiv.org/abs/2407.08223) | Arxiv 2024  |  |   | | 
 | 2024-06-03 | RGNN-Ret | HKUST | [Graph Neural Network Enhanced Retrieval for Question Answering of LLMs](https://arxiv.org/abs/2406.06572) | Arxiv 2024  |  |   | | 
 | 2024-05-26 | GRAG | Emory | [GRAG: Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2405.16506) | Arxiv 2024 |   |  |   | | 
 | 2024-01-26 | CRAG | USTC | [Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884) | Arxiv 2024 |  [Code](https://github.com/HuskyInSalt/CRAG)  |  |   | | 
+
+
 
 ## Video-RAG
 
