@@ -1,5 +1,5 @@
 
-# Awesome-LLM-Websearch-RAG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-LLM-WebSearch-RAG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
