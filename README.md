@@ -99,7 +99,7 @@
 | 2024-10-02 | MMQA |  | [MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions](https://openreview.net/forum?id=GGlpykXDCa) | ICLR 2025 Oral | | | |
 | 2024-10-07 | TableRAG | NTU(Taiwan) | [TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/abs/2410.04739) | NIPS 2024 | [Code](https://github.com/google-research/google-research/tree/master/encyclopedic_vqa) |  |  |
 | 2023-06-15 | Encyclopedic VQA | Google | [Encyclopedic VQA: Visual questions about detailed properties of fine-grained categories](https://arxiv.org/abs/2411.19504) | ICCV 2023 |  [Code](https://github.com/google-research/google-research/tree/master/encyclopedic_vqa) |  |  |
-| 2022-05-04 | WebQA | CMU | [MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding](https://arxiv.org/abs/2112.10728) | AAAI 2022 |  [Code](https://github.com/blender-nlp/MuMuQA) |   |  |
+| 2022-05-04 | MuMuQA| UIUC | [MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding](https://arxiv.org/abs/2112.10728) | AAAI 2022 |  [Code](https://github.com/blender-nlp/MuMuQA) |   |  |
 | 2022-03-28 | WebQA | CMU | [WebQA: Multihop and Multimodal QA](https://arxiv.org/abs/2109.00590) | CVPR 2022 |  [Code](https://github.com/WebQnA/WebQA_Baseline) | [Project](https://webqna.github.io/)  |  |
 
 
