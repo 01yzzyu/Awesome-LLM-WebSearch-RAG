@@ -22,6 +22,7 @@
 | 2024-10-28 | Survey | CMU | [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2410.12837) | Arxiv 2024 |   |  | 
 | 2024-09-23 | Survey | Microsoft | [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/abs/2409.14924) | Arxiv 2024 |   |  | 
 | 2024-06-17 | Survey | HK PolyU | [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211) | KDD 2024 |  [Code](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) | [Project](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) | 
+| 2024-06-17 | Survey | XJTU | [Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://arxiv.org/abs/2307.11471) | IEEE TPAMI  |  |   | 
 
 
 
