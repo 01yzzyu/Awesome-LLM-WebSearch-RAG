@@ -26,6 +26,12 @@
 
 
 
+## Benchmark-Survey
+
+|  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project | 
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: 
+| 2024-08-17 | Survey | Tencent | [A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632) |  Arxiv 2024 |   |  | 
+
 
 ## Enhanced-Retrieval
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project |  Others | 
