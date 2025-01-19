@@ -26,13 +26,13 @@
 | 2024-06-17 | Survey | HK PolyU | [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211) | KDD 2024 |  [Code](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) | [Project](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) | 
 | 2024-06-17 | Survey | XJTU | [Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://arxiv.org/abs/2307.11471) | IEEE TPAMI  |  |   | 
 
-
-
 ## Benchmark-Survey
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Code | Project | 
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------: 
+| 2024-09-17 | Survey | HKUST | [A Survey on Multimodal Benchmarks: In the Era of Large AI Models](https://arxiv.org/pdf/2409.18142) |  Arxiv 2024 |   | [Project](https://github.com/HKUST-LongGroup/Awesome-MLLM-Benchmarks) | 
 | 2024-08-17 | Survey | Tencent | [A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632) |  Arxiv 2024 |   |  | 
+
 
 
 ## Enhanced-Retrieval
